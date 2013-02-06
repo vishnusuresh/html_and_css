@@ -97,6 +97,27 @@ h6 {
 
 /* Content block defaults */
 #content {
+	float: right;
+	width: 630px;
+	padding: 4px;
+	border-bottom: solid 1px #DDDDDD;
+	border-left: solid 1px #DDDDDD;
+}
+
+#content h3 {
+	font-variant: small-caps;
+}
+
+#content h4 {
+	font-variant: small-caps;
+	font-style: italic;
+	font-size: 90%;
+}
+
+#content p {
+	text-align: left;
+	color: blue;
+	font-variant: normal;
 }
 
 /* Footer block defaults */
