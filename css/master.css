@@ -57,8 +57,16 @@ h6 {
 
 /* Navigation block defaults */
 #navigation {
-	height: 32px;
-	border-bottom: solid 1px #808080;
+	position: fixed;
+	margin-top: 128px;
+}
+
+#navigation dt {
+	width: 128px;
+	text-align: center;
+	font-family: "Courier New", Monospace;
+	border-left: solid 1px #808080;
+	border-right: solid 1px #808080;
 }
 
 /* Header block defaults */
