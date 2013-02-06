@@ -89,10 +89,13 @@ h6 {
 }
 
 #header dt {
-	float: right;
-	width: 128px;
-	margin: 0px;
-	padding: 4px;
+	float: left;
+	width: 254px;
+	text-align: center;
+	font-size: 90%;
+	font-family: "Courier New", Monospace;
+	border-left: solid 1px #808080;
+	border-right: solid 1px #808080;
 }
 
 /* Content block defaults */
