@@ -95,6 +95,10 @@ h6 {
 	padding: 4px;
 }
 
+/* Content block defaults */
+#content {
+}
+
 /* Footer block defaults */
 #footer {
 	clear: both;
