@@ -96,6 +96,16 @@ h6 {
 }
 
 /* Content block defaults */
+#content_header {
+	float: left;
+	width: 126px;
+	text-align: centre;
+	font-weight: 600; /* 400 is Normal, 700 is bold */
+	font-size: 128%;
+	font-variant: small-caps;
+	//border: solid 1px #DDDDDD;
+}
+
 #content {
 	float: right;
 	width: 630px;
