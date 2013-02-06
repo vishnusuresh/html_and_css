@@ -1,3 +1,4 @@
+/* Customisation of default html */
 html, body {
 	margin: 2px;
 	padding: 2px;
@@ -10,6 +11,7 @@ body {
 	color: #222222;
 }
 
+/* Customisation of default headers */
 h1 {
 	margin: 0;
 	padding 0;
@@ -40,21 +42,26 @@ h6 {
 	padding 0;
 }
 
+/* Custom CSS */
+
 .hidden {
 	display: none;
 }
 
+/* page defaults */
 #page {
 	width: 768px;
 	margin: auto;
 	background: #EFEFEF; /* Light Grey */
 }
 
+/* Navigation block defaults */
 #navigation {
 	height: 32px;
 	border-bottom: solid 1px #808080;
 }
 
+/* Header block defaults */
 #header {
 	height: 64px;
 	border-bottom: solid 1px #808080;
@@ -88,6 +95,7 @@ h6 {
 	padding: 4px;
 }
 
+/* Footer block defaults */
 #footer {
 	clear: both;
 	height: 64px;
