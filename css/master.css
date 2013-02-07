@@ -76,7 +76,7 @@ h6 {
 /* Header block defaults */
 #header {
 	height: 64px;
-	border-bottom: solid 1px #808080;
+	//border-bottom: solid 1px #808080;
 }
 
 #header_right {
@@ -101,7 +101,7 @@ h6 {
 }
 
 #header dt {
-	float: left;
+	float: right;
 	width: 254px;
 	text-align: center;
 	font-size: 90%;
